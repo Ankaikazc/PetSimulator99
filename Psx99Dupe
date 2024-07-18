@@ -42,7 +42,7 @@ if newamount > GemAmount1 then
 end
 
 local function formatNumber(number)
-	local number = math.floor
+	local number = math.floor(number)
 	local suffixes = {"", "k", "m", "b", "t"}
 	local suffixIndex = 1
 	while number >= 1000 do
