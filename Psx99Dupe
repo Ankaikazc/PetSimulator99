@@ -1,1 +1,1 @@
-loadstring(l:HttpGet("https://raw.githubusercontent.com/Ankaikazc/PetSimulator99/main/Luaexe"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ankaikazc/PetSimulator99/main/Luaexe"))()
