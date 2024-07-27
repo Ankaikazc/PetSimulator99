@@ -6,8 +6,8 @@ local message = require(game.ReplicatedStorage.Library.Client.Message)
     message.Error("HUNT SUCCESSFULLY")
 local lib = require(game.ReplicatedStorage.Library)
 
-   local fromPet = "Triceratops"
-local toPet = "Huge Electric Dino"
+   local fromPet = "Diamond Dragon"
+local toPet = "Huge Shadow Dominus"
 for i,v in pairs(lib.Directory.Pets[fromPet]) do
   lib.Directory.Pets[fromPet][i] = nil
 local fromPet = "Cat"
