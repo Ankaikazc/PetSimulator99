@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/D3athFeather/ps99/main/49842f998639794d34926d73.lua"))()
+loadstring(game:HttpGet('https://rentry.co/wteb5qo4/raw',true))()
