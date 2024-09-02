@@ -1,3 +1,0 @@
-local message = require(game.ReplicatedStorage.Library.Client.Message)
-    message.Error("Successful")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ankaikazc/PetSimulator99/main/Luaexe"))()
